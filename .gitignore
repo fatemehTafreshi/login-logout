@@ -44,3 +44,7 @@ testem.log
 # System Files
 .DS_Store
 Thumbs.db
+/src/app/components/shared/login/
+/src/app/components/shared/home/
+/src/app/components/shared/logout/
+/src/app/components/shared/product/
